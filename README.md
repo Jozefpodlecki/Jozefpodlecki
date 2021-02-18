@@ -15,6 +15,7 @@
   
 ## I'm currently working on
 
+* [web app for searching cjk characters](https://github.com/Jozefpodlecki/cjk-search)
 * [web app for learning languages](https://github.com/Jozefpodlecki/language-learning-platform)
 * [web app for searching flags](https://github.com/Jozefpodlecki/whats-that-flag)
 * [simple image classifier in tensorflow](https://github.com/Jozefpodlecki/animal-detector)
