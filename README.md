@@ -1,5 +1,9 @@
 ﻿# Hello! 👋 I'm Jozef!
 
+[Portfolio](https://jozefpodlecki.github.io/)
+
+[Blog](https://jozefpodlecki.github.io/Blog/)
+
 ## My techstack
 
 <p align="center" width="100%">
