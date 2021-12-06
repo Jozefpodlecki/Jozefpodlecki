@@ -19,7 +19,7 @@
   
 ## I'm currently working on
 
-* [web app for searching cjk characters](https://github.com/Jozefpodlecki/cjk-search)
+* [hr web app](https://github.com/Jozefpodlecki/HRApp)
 * [web app for learning languages](https://github.com/Jozefpodlecki/language-learning-platform)
 * [web app for searching geographic features](https://github.com/Jozefpodlecki/geo-shapes)
 
