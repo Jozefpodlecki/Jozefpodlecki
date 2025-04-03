@@ -57,14 +57,14 @@ Built with
 
 ## 🎮 **Games**
 
+### **Snake**
+[![Snake](https://img.shields.io/badge/-Play_🎮-007bff?style=flat-square&logo=gamepad&logoColor=white)](https://jozefpodlecki.dev/Snake/)
+
+
 ### **Game of Life**
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-4CAF50?style=flat-square&logo=Google-Chrome&logoColor=white)](https://jozefpodlecki.dev/GameOfLife/)
 
 An interactive implementation of Conway's Game of Life.  
-
-<!-- ### **Snake**
-A classic Snake game with a modern twist.  
-[![Repo Link](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Jozefpodlecki/Snake) -->
 
 ---
 
@@ -73,7 +73,7 @@ A classic Snake game with a modern twist.
 
 I occasionally decompile Rust applications for self-learning and exploration.  
 
-### **Technologies I Use**
+## **Technologies I Use**
 
 I am primarily **Microsoft tech stack-based** and have recently started learning **Rust** for fun and exploration.
 
