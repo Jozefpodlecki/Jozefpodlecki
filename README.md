@@ -20,6 +20,18 @@ Welcome to my GitHub profile! 🚀
 
 Here are some of the projects I've worked on:
 
+### 📚 **Lingua Pick**  
+
+[![Live](https://img.shields.io/badge/-Live-2ea44f?style=flat-square&logo=GoogleChrome&logoColor=white)](http://jozefpodlecki.dev/lingua-pick/)
+[![Repo Link](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Jozefpodlecki/lingua-pick)
+
+A language learning platform currently supporting Korean.  
+Built with
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
 ### **Payment Processing System**
 [![Repo Link](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Jozefpodlecki/payment-processing-system)
 
