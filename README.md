@@ -35,7 +35,7 @@ Built with
 ### **Payment Processing System**
 [![Repo Link](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Jozefpodlecki/payment-processing-system)
 
-A robust payment processing system built with modern technologies.
+A simple payment processing system built with .NET.
 
 Built with
 
@@ -79,11 +79,6 @@ Built with
 An interactive implementation of Conway's Game of Life.  
 
 ---
-
-## 🔍 **Reverse Engineering**
-[![Repo Link](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Jozefpodlecki/reverse-engineering-exercises)
-
-I occasionally decompile Rust applications for self-learning and exploration.  
 
 ## **Technologies I Use**
 
